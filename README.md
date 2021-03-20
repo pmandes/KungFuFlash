@@ -1,3 +1,23 @@
+# WIP: Kung Fu Flash - long PCB version
+
+![KKF long board](pics/kkf_long_pcb_v1.png)
+
+main changes:
+- long PCB to fit common enclosures
+- right angle tactile switches
+- mini USB (for use the same cable as in EF3)
+- 0805 resistors
+
+compatible enclousures:
+- [KM-20B](https://www.tme.eu/en/details/km-20b/multipurpose-enclosures/maszczyk/)
+- [Z7](https://www.kradex.eu/product/enclosures_two_part/z7_ps?lang=en)
+- "Commodore" type and other enclosures the EF3 fits
+
+![KKF KM-20B](pics/long_board/kkf_long_km20b.jpg)
+![KKF Z7](pics/long_board/kkf_long_z7.jpg)
+![KKF Commodore Cart](pics/long_board/kkf_long_commodore.jpg)
+
+
 # Kung Fu Flash
 Cartridge for the Commodore 64 that packs a punch.
 
