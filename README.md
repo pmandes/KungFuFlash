@@ -1,6 +1,6 @@
 # WIP: Kung Fu Flash - long PCB version
 
-![KKF long board](pics/kkf_long_pcb_v1.png)
+![KKF long board](pics/long_pcb/kkf_long_pcb_v1.png)
 
 main changes:
 - long PCB to fit common enclosures
@@ -13,9 +13,9 @@ compatible enclousures:
 - [Z7](https://www.kradex.eu/product/enclosures_two_part/z7_ps?lang=en)
 - "Commodore" type and other enclosures the EF3 fits
 
-![KKF KM-20B](pics/long_board/kkf_long_km20b.jpg)
-![KKF Z7](pics/long_board/kkf_long_z7.jpg)
-![KKF Commodore Cart](pics/long_board/kkf_long_commodore.jpg)
+![KKF KM-20B](pics/long_pcb/kkf_long_km20b.jpg)
+![KKF Z7](pics/long_pcb/kkf_long_z7.jpg)
+![KKF Commodore Cart](pics/long_pcb/kkf_long_commodore.jpg)
 
 
 # Kung Fu Flash
