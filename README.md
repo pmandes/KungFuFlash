@@ -1,3 +1,36 @@
+# Kung Fu Flash - Long PCB version
+
+This version of the cartridge was developed for the following purposes:
+- to fit into standard housings matching PCBs in format and size of the EasyFlash 3 cartridge
+- to make SMD manual soldering easier
+- to prevent the leverage effect when pressing the buttons from above, which stressed the cartridge connector and caused the C64 to crash.
+
+The original design can be found [here](https://github.com/KimJorgensen/KungFuFlash).
+
+![KKF long board](pics/long_pcb/kkf_long_pcb_v21.png)
+
+Main changes:
+- project migrated to KiCad 6.0
+- 3D models for all components
+- long PCB to fit common housings
+- right angle tactile switches
+- more durable Mini USB B socket for data transfer (you can use the same cable as EF3)
+- 100Ω 0805 resistors for easier manual soldering (instead of resitor arrays)
+
+The gerber files:
+[KungFuFlash-Long-v2.1-PM.zip](https://github.com/pmandes/KungFuFlash/blob/long-board-cart/hardware/gerber/KungFuFlash-Long-v2.1-PM.zip)
+
+Compatible housings:
+- [KM-20B](https://www.tme.eu/en/details/km-20b/multipurpose-enclosures/maszczyk/)
+- [Z7](https://www.kradex.eu/product/enclosures_two_part/z7_ps?lang=en)
+- [Thingiverse](https://www.thingiverse.com/thing:1702546)
+- "Commodore" type and others that EF3 fits
+
+![KKF KM-20B](pics/long_pcb/kkf_long_km20b.jpg)
+![KKF Z7](pics/long_pcb/kkf_long_z7.jpg)
+![KKF Commodore Cart](pics/long_pcb/kkf_long_commodore.jpg)
+
+
 # Kung Fu Flash
 Cartridge for the Commodore 64 that packs a punch.
 

@@ -1,5 +1,7 @@
 # Editor
 .vscode/
+hardware/KungFuFlash-backups/
+hardware/fp-info-cache
 
 # Prerequisites
 *.d
